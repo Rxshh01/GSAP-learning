@@ -6,7 +6,7 @@ gsap.to(".page2 h1",{
         scroller:"body",
         scrub:3,
         start:"top 0%",
-        end:"top -50%",
+        end:"top -150%",
         pin:true
     }
 })
